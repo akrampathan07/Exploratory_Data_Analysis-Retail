@@ -1,4 +1,4 @@
-# Task3_GRIP
+# Exploratory Data Analysis- Retail
 Task3-  Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 As a business manager try to find ou the weak areas where you can work to make more profit. What all business problem you can derive from exploring the data?
 
